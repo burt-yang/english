@@ -1,0 +1,15 @@
+[
+  {
+    "name":"BG2",
+    "musics":[
+      {
+        "name":"Track01",
+        "url":"https://raw.githubusercontent.com/burt-yang/english/refs/heads/master/BG2/Track01.mp3"
+      },
+      {
+        "name":"Track02",
+        "url":"https://raw.githubusercontent.com/burt-yang/english/refs/heads/master/BG2/Track02.mp3"
+      }
+    ]
+  }
+]
